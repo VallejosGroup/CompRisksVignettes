@@ -44,7 +44,7 @@ is sourced below. The latter creates three data objects:
 Details about data pre-processing steps can be found [here](https://github.com/VallejosGroup/CompRisksVignettes/blob/main/Source/DataPreparation.Rmd)
 
 ```{r}
-source("../Aux/data_prep.R")
+source("../_Aux/data_prep.R")
 ```
 
 The following sections illustrate the usage of different methods defined using 
